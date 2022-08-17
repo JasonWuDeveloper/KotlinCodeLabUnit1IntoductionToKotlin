@@ -51,5 +51,5 @@ class MainActivity : AppCompatActivity(),MVPContract.View {
     }
    override fun updateTipResult(result: String) {
         binding.tipResult.text = result
-    }
+    }fff
 }
