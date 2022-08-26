@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KotlinCodeLabUnit1IntoductionToKotlin</string>
+<!--    <string name="app_name">KotlinCodeLabUnit1IntoductionToKotlin</string>-->
     <string name="calculate">CALCULATE</string>
     <string name="tip_amount">Tip Amount: %s</string>
     <string name="good_service">Good(18%)</string>
@@ -7,4 +7,12 @@
     <string name="ok_service">OK(15%)</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="how_was_the_service">How was the service?</string>
+
+    <string name="app_name">TipTime</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+
+    <string name="near_the">Near the</string>
 </resources>
